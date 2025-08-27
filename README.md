@@ -2,7 +2,7 @@
 
 ## Objective
 *An important part of data preprocessing (raw data -> meaningful features)
-Understand and able to implement techniques
+Understand and able to implement techniques*
 - Imputation
 - Outlier Handling
 - One-hot encoding
@@ -24,6 +24,20 @@ End of the lab: Understand how to apply feature engineering techniques to optimi
     - Scaling
 
 2) #### Going through an example of each method, and understanding why it is important to use in that use case
+    - Imputation
+        Example:
+        
+    - Outlier Handling
+        Example:
+
+    - One-hot encoding
+        Example:
+
+    - Log transformation
+        Example
+
+    - Scaling
+        Example: 
 
 Each implemementation will have it's own directory to help with organizing files
 
